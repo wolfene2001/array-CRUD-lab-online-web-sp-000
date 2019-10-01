@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-
+  stitches = ["knit", "purl", "yarn over", "slip stitch"]
+  stitches << "k2tog"
 end
 
 def add_element_to_start_of_array(array, element)
